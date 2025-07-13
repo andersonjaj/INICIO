@@ -283,6 +283,4 @@ botoncrear.grid(row=1,column=3, sticky="e",padx=10,pady=10)
 
 
 
-
-
 raiz.mainloop()
